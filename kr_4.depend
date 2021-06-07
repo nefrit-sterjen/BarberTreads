@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622472493 source:c:\progs\kr_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<locale.h>
+	<windows.h>
+
